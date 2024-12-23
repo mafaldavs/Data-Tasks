@@ -1,5 +1,7 @@
 **A repository showcasing specific data analysis tasks solved using Python, SQL, and Power BI.**
 
+![image](https://github.com/user-attachments/assets/bb2a2b31-e9cd-45f8-bc07-0507b8d87b5d)
+
 **Overview**
 
 Welcome to data-tasks! This project demonstrates practical solutions to real-world data analysis problems, leveraging the power of Python for data manipulation and visualization, SQL for querying and database management, and Power BI for interactive reporting and dashboards.
