@@ -9,7 +9,9 @@ Whether you are exploring actionable insights, building ETL pipelines, or creati
 **Features**
 
 Python: Data cleaning, transformation, and advanced analytics.
+
 SQL: Complex queries, data aggregation, and relational database management.
+
 Power BI: Dynamic dashboards and interactive visualizations.
 
 
